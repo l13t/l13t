@@ -12,4 +12,8 @@ I'm Dmytro and I worked as Infrastructure engineer in different industries: inte
 [website]: https://liet.me
 [twitter]: https://twitter.com/l13t
 [linkedin]: https://linkedin.com/in/dmytro-prokhorenkov/
+<br />
 
+### Github statistics
+
+![Liet's GitHub stats](https://github-readme-stats.vercel.app/api?username=l13t)
